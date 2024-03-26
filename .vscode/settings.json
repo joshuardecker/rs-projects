@@ -2,5 +2,6 @@
     "rust-analyzer.linkedProjects": [
         ".\\cat-rs\\Cargo.toml",
         ".\\ls-rs\\Cargo.toml",
+        ".\\grep-rs\\Cargo.toml",
     ]
 }
